@@ -1,6 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: rgb(51, 163, 167);
+  background-color: rgb(89, 184, 187);
 }
 
 #app {
@@ -18,7 +18,7 @@ body {
 }
 
 #time #value {
-  font-size: 48px;
+  font-size: 52px;
   font-weight: bolder;
 }
 
